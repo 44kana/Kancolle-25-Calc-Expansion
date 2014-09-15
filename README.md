@@ -10,7 +10,7 @@
 　2-5 索敵値計算機＋αの隠し味（以下、本拡張）は、 [2-5 索敵値計算機＋α](http://tsoft-web.com/sub/kancolle/2-5/e/) 用の Chrome 用 機能拡張 です。表示されている装備、および入力した索敵値をセットにして複数保存する機能を追加します。また、独自のUrlを生成し、本拡張をインストールしているユーザー同士で編成状況を伝え合うことができます。
 
 　デベロッパーモードの最新 Chrome Stable 版 で開発しています。  
-　スクリプト部分を用いて UserScript として使用したい場合は[**こちら**](https://raw.githubusercontent.com/44kana/Kancolle-Aircraft-Calculator-Expansion/master/Kancolle-Aircraft-Calculator-Expansion.user.js)からスクリプトをダウンロードしてください。（試してないから分からないけど）エクステンションを挿んだり Firefox で使えたりするかも？みんな Chrome 使ってるよね？だって艦これ推奨ブラウザだもん！
+　スクリプト部分を用いて UserScript として使用したい場合は[**こちら**](https://raw.githubusercontent.com/44kana/Kancolle-25-Calc-Expansion/master/scout25.user.js)からスクリプトをダウンロードしてください。（試してないから分からないけど）エクステンションを挿んだり Firefox で使えたりするかも？みんな Chrome 使ってるよね？だって艦これ推奨ブラウザだもん！
 
 　想定している用途：
 
